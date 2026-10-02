@@ -6,6 +6,8 @@ Cybersecurity student at Palm Beach State College (A.S. in Cybersecurity) workin
 
 A home security operations center that monitors a real Windows 11 workstation end to end.
 
+**[Open the live console](https://jordan17133.github.io/SentinelGrid/)**: alerts, cases and ATT&CK coverage from the lab, in your browser.
+
 - **Detection:** Wazuh SIEM with Sysmon, Windows Defender, PowerShell script-block logging and file integrity monitoring, mapped to MITRE ATT&CK.
 - **Triage:** six investigations written up as cases, each traced to a root cause with evidence. Every one of the 35 ATT&CK techniques that fired has a verdict, and tuning cut a steady 36-per-hour stream of false Critical alerts.
 - **Validation:** a controlled password-guessing test, detected and reported end to end, including where the default rules fall short.
