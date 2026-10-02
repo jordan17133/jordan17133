@@ -21,7 +21,7 @@ Wazuh · Sysmon · Windows event logs · MITRE ATT&CK · alert triage and tuning
 
 ## Background
 
-Before security, I led recruiting as Director of Talent Acquisition at Showpitch, which taught me to explain technical work clearly and to own outcomes.
+Before security, I scouted talent at about 25 Florida universities for Showpitch, an entertainment networking startup, then sold 115 motorcycles in a year at Palm Beach Harley-Davidson: work that taught me to own outcomes and explain things clearly.
 
 ## Contact
 
