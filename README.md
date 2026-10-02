@@ -25,5 +25,5 @@ Before security, I scouted talent at about 25 Florida universities for Showpitch
 
 ## Contact
 
-- LinkedIn: [jordan-carven-bellace](https://www.linkedin.com/in/jordan-carven-bellace-b97a479b)
+- LinkedIn: [jordancarvenbellace](https://www.linkedin.com/in/jordancarvenbellace)
 - Email: through LinkedIn, or the address on my resume
