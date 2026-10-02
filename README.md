@@ -11,7 +11,7 @@ A home security operations center that monitors a real Windows 11 workstation en
 - **Detection:** Wazuh SIEM with Sysmon, Windows Defender, PowerShell script-block logging and file integrity monitoring, mapped to MITRE ATT&CK.
 - **Triage:** eight investigations written up as cases, each traced to a root cause with evidence. Every one of the 37 ATT&CK techniques that fired has a verdict, and tuning cut a steady 36-per-hour stream of false Critical alerts.
 - **Validation:** a controlled password-guessing test, detected and reported end to end, including where the default rules fall short.
-- **Posture:** 437 of 447 vulnerability findings resolved (zero Critical open); CIS benchmark score raised from 27.1% to 37.0%.
+- **Posture:** 437 of 447 vulnerability findings resolved (zero Critical open), including a forgotten browser that held all 99 Critical findings; CIS benchmark score raised from 27.1% to 37.0%.
 - **Data:** a Python loader feeds a SQL Server warehouse every 15 minutes (99% success), with a least-privilege reporting role and a case log.
 - **Reporting:** five Power BI pages kept as code in Git: SOC overview, endpoint posture, ATT&CK coverage, cases, pipeline health.
 
