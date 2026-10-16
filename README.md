@@ -2,6 +2,8 @@
 
 Cybersecurity student at Palm Beach State College (A.S. in Cybersecurity) working toward a SOC analyst role. I build and run my own security monitoring, then write up what I find.
 
+**[View my portfolio →](https://jordan-portfolio-alpha.vercel.app/)**
+
 ## Featured project: [Watchtide](https://github.com/jordan17133/Watchtide)
 
 A home security operations center that monitors a real Windows 11 workstation end to end.
@@ -25,5 +27,6 @@ Before security, I scouted talent at about 25 Florida universities for Showpitch
 
 ## Contact
 
+- Portfolio: [jordan-portfolio-alpha.vercel.app](https://jordan-portfolio-alpha.vercel.app/)
 - LinkedIn: [jordancarvenbellace](https://www.linkedin.com/in/jordancarvenbellace)
 - Email: through LinkedIn, or the address on my resume
