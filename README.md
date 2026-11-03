@@ -4,6 +4,8 @@ Cybersecurity student at Palm Beach State College (A.S. in Cybersecurity) workin
 
 **[View my portfolio →](https://jordan-portfolio-alpha.vercel.app/)**
 
+Project case studies: [Watchtide home SOC](https://jordan-portfolio-alpha.vercel.app/projects/watchtide) | [Security data and Power BI](https://jordan-portfolio-alpha.vercel.app/projects/security-data-pipeline) | [Riptide automation](https://jordan-portfolio-alpha.vercel.app/projects/riptide).
+
 ## Featured project: [Watchtide](https://github.com/jordan17133/Watchtide)
 
 A home security operations center that monitors a real Windows 11 workstation end to end.
@@ -15,7 +17,7 @@ A home security operations center that monitors a real Windows 11 workstation en
 - **Validation:** a controlled password-guessing test, detected and reported end to end, including where the default rules fall short.
 - **Posture:** 437 of 447 vulnerability findings resolved (zero Critical open), including a forgotten browser that held all 99 Critical findings; CIS benchmark score raised from 27.1% to 37.0%.
 - **Data:** a Python loader feeds a SQL Server warehouse every 15 minutes (99% success), with a least-privilege reporting role and a case log.
-- **Reporting:** five Power BI pages kept as code in Git: SOC overview, endpoint posture, ATT&CK coverage, cases, pipeline health.
+- **Reporting:** Power BI report kept as code in Git: SOC overview, endpoint posture, ATT&CK coverage, cases, pipeline health.
 
 ## Skills
 
