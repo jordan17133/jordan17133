@@ -1,8 +1,8 @@
-# Jordan Carven-Bellace
+# Jordan Bellace
 
 Cybersecurity student at Palm Beach State College (A.S. in Cybersecurity) working toward a SOC analyst role. I build and run my own security monitoring, then write up what I find.
 
-**[View my portfolio →](https://jordan-portfolio-alpha.vercel.app/)**
+**[View my portfolio â†’](https://jordan-portfolio-alpha.vercel.app/)**
 
 Project case studies: [Watchtide home SOC](https://jordan-portfolio-alpha.vercel.app/projects/watchtide) | [Security data and Power BI](https://jordan-portfolio-alpha.vercel.app/projects/security-data-pipeline) | [Riptide automation](https://jordan-portfolio-alpha.vercel.app/projects/riptide).
 
@@ -21,7 +21,7 @@ A home security operations center that monitors a real Windows 11 workstation en
 
 ## Skills
 
-Wazuh · Sysmon · Windows event logs · MITRE ATT&CK · alert triage and tuning · SQL Server / T-SQL · Python · Power BI · Linux (Ubuntu Server) · Hyper-V
+Wazuh Â· Sysmon Â· Windows event logs Â· MITRE ATT&CK Â· alert triage and tuning Â· SQL Server / T-SQL Â· Python Â· Power BI Â· Linux (Ubuntu Server) Â· Hyper-V
 
 ## Background
 
@@ -30,5 +30,5 @@ Before security, I scouted talent at about 25 Florida universities for Showpitch
 ## Contact
 
 - Portfolio: [jordan-portfolio-alpha.vercel.app](https://jordan-portfolio-alpha.vercel.app/)
-- LinkedIn: [jordancarvenbellace](https://www.linkedin.com/in/jordancarvenbellace)
+- LinkedIn: [Jordan Bellace](https://www.linkedin.com/in/jordanbellace)
 - Email: through LinkedIn, or the address on my resume
